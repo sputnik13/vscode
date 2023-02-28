@@ -18,5 +18,6 @@
 				"mutantdino.resourcemonitor"
 			]
 		}
-	}
+	},
+	"capAdd": [ "CAP_NET_ADMIN" ]
 }
